@@ -1,10 +1,7 @@
 # Adblock Detection Addon for Filebob
 
-<p align="center">
-  <img src="image_0.png" alt="Adblock Detection Addon Banner" width="100%">
-</p>
+<img width="590" height="300" alt="image" src="https://github.com/user-attachments/assets/bc5ff069-be7d-4fa0-a17c-74fe39344fb4" />
 
----
 
 ## 🛡️ Overview
 
