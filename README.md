@@ -1,5 +1,7 @@
 # 🚀 Sidecodes – Software Development & Digital Solutions
 
+![Sidecodes Banner](image_0.png)
+
 Welcome to the official repository of **Sidecodes**. This project serves as the digital hub for high-performance web development, mobile applications, and strategic IT consulting.
 
 ---
@@ -41,7 +43,4 @@ To explore the codebase or run a local instance:
 
 1. **Clone the repository:**
    ```bash
-
-   
-   
    git clone [https://github.com/your-username/sidecodes.git](https://github.com/your-username/sidecodes.git)
