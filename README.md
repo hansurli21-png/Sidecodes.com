@@ -1,46 +1,43 @@
-# 🚀 Sidecodes – Software Development & Digital Solutions
+# Adblock Detection Addon for Filebob
 
-![Sidecodes Banner](image_0.png)
-
-Welcome to the official repository of **Sidecodes**. This project serves as the digital hub for high-performance web development, mobile applications, and strategic IT consulting.
-
----
-
-## 🌐 Overview
-
-**Sidecodes** is a boutique development powerhouse focused on building scalable, user-centric, and technically robust digital products. From initial architecture to deployment, we turn complex ideas into seamless code.
-
-* **Live Website:** [sidecodes.com](https://sidecodes.com)
-* **Focus:** Full-stack Development, API Design, and Performance Optimization.
+<p align="center">
+  <img src="image_0.png" alt="Adblock Detection Addon Banner" width="100%">
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛡️ Overview
 
-This platform and its associated projects are built with a modern, industry-leading stack:
+This is the official **Adblock Detection Addon for Filebob**. This tool allows you to protect your ad revenue by identifying visitors who are using ad blockers and requiring them to disable the blocker before accessing your content on Filebob.
 
-| Layer | Technologies |
-| :--- | :--- |
-| **Frontend** | React, Next.js, Tailwind CSS, Framer Motion |
-| **Backend** | Node.js, Laravel, PostgreSQL, Redis |
-| **Mobile** | React Native, Swift, Kotlin |
-| **Infrastructure** | Docker, AWS, Vercel, CI/CD Pipelines |
+* **Platform:** Filebob
+* **Version:** 1.0.0
+* **Key Feature:** Force visitors to disable adblock.
 
 ---
 
-## ✨ Key Services & Features
+## 🚀 Installation
 
-* **Custom Web Apps:** High-performance applications built for scale.
-* **E-Commerce:** Scalable shopping experiences with secure integrations.
-* **IT Consulting:** Expert advice on software architecture and digital transformation.
-* **Performance First:** Optimized for SEO, speed, and accessibility.
+*Note: Instructions on how to integrate this addon into your Filebob installation.*
+
+1.  Upload the addon files to your Filebob server.
+2.  Follow the setup instructions in the `/docs` folder.
+3.  Activate the addon from your Filebob admin panel.
 
 ---
 
-## 📦 Local Development
+## 🛠️ Usage
 
-To explore the codebase or run a local instance:
+Once activated, this addon automatically detects ad blockers. You can customize the message or overlay that appears to the user.
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/sidecodes.git](https://github.com/your-username/sidecodes.git)
+---
+
+## 🤝 Contact & Support
+
+For issues, feature requests, or support, please visit:
+* **Official Website:** [sidecodes.com](https://sidecodes.com)
+* [GitHub Issues](https://github.com/your-username/sidecodes/issues)
+
+---
+
+© 2026 Sidecodes. All rights reserved.
